@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Chethana45/DSA/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Chethana45/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Chethana45/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Chethana45/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Chethana45/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chethana45/DSA/tree/master/0342-power-of-four) |
 ## String
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chethana45/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chethana45/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chethana45/DSA/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chethana45/DSA/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -43,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chethana45/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Chethana45/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Chethana45/DSA/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -50,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Chethana45/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Chethana45/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chethana45/DSA/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
