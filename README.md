@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Chethana45/DSA/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/Chethana45/DSA/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chethana45/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chethana45/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chethana45/DSA/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Chethana45/DSA/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
