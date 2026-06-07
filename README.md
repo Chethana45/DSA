@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Chethana45/DSA/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chethana45/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0704-binary-search](https://github.com/Chethana45/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Chethana45/DSA/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
