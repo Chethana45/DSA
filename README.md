@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Chethana45/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Chethana45/DSA/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Chethana45/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Chethana45/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Chethana45/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Chethana45/DSA/tree/master/0326-power-of-three) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chethana45/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chethana45/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Chethana45/DSA/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/Chethana45/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chethana45/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Chethana45/DSA/tree/master/0704-binary-search) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Chethana45/DSA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Chethana45/DSA/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chethana45/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Chethana45/DSA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
