@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chethana45/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Chethana45/DSA/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Chethana45/DSA/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chethana45/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chethana45/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chethana45/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chethana45/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Chethana45/DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Chethana45/DSA/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Chethana45/DSA/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Chethana45/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chethana45/DSA/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Chethana45/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
