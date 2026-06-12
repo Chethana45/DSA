@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Chethana45/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chethana45/DSA/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Chethana45/DSA/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/Chethana45/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Chethana45/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chethana45/DSA/tree/master/0283-move-zeroes) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chethana45/DSA/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Chethana45/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Chethana45/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Chethana45/DSA/tree/master/0342-power-of-four) |
