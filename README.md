@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Chethana45/DSA/tree/master/0412-fizz-buzz) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Chethana45/DSA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
