@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Chethana45/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chethana45/DSA/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Chethana45/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Chethana45/DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chethana45/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Chethana45/DSA/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Chethana45/DSA/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/Chethana45/DSA/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chethana45/DSA/tree/master/0036-valid-sudoku) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Chethana45/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
