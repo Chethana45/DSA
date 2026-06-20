@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Chethana45/DSA/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Chethana45/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Chethana45/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Chethana45/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Chethana45/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Chethana45/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chethana45/DSA/tree/master/0189-rotate-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chethana45/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chethana45/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Chethana45/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Chethana45/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Chethana45/DSA/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chethana45/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Chethana45/DSA/tree/master/0189-rotate-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Chethana45/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Chethana45/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Chethana45/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chethana45/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chethana45/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
