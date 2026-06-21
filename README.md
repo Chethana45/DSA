@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Chethana45/DSA/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Chethana45/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Chethana45/DSA/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Chethana45/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Chethana45/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Chethana45/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chethana45/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Chethana45/DSA/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Chethana45/DSA/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Chethana45/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/Chethana45/DSA/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
