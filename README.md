@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Chethana45/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Chethana45/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Chethana45/DSA/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Chethana45/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Chethana45/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Chethana45/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Chethana45/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Chethana45/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chethana45/DSA/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Chethana45/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Chethana45/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Chethana45/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chethana45/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Chethana45/DSA/tree/master/0136-single-number) |
