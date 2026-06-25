@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Chethana45/DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Chethana45/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Chethana45/DSA/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/Chethana45/DSA/tree/master/1068-product-sales-analysis-i) |
 ## Counting
 |  |
 | ------- |
