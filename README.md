@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Chethana45/DSA/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Chethana45/DSA/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/Chethana45/DSA/tree/master/1179-reformat-department-table) |
+| [1484-group-sold-products-by-the-date](https://github.com/Chethana45/DSA/tree/master/1484-group-sold-products-by-the-date) |
 ## Counting
 |  |
 | ------- |
