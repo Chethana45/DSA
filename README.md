@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Chethana45/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Chethana45/DSA/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Chethana45/DSA/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/Chethana45/DSA/tree/master/1179-reformat-department-table) |
 ## Counting
 |  |
 | ------- |
