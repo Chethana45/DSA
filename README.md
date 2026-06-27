@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chethana45/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chethana45/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Chethana45/DSA/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Chethana45/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Chethana45/DSA/tree/master/0704-binary-search) |
 | [2032-two-out-of-three](https://github.com/Chethana45/DSA/tree/master/2032-two-out-of-three) |
 ## Two Pointers
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chethana45/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Chethana45/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Chethana45/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Chethana45/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Chethana45/DSA/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
