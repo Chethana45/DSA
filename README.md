@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Chethana45/DSA/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Chethana45/DSA/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Chethana45/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Chethana45/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Chethana45/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2485-find-the-pivot-integer](https://github.com/Chethana45/DSA/tree/master/2485-find-the-pivot-integer) |
 ## String
@@ -199,11 +200,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Chethana45/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Chethana45/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Chethana45/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Chethana45/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chethana45/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Chethana45/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Chethana45/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
