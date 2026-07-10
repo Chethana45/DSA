@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Chethana45/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chethana45/DSA/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Chethana45/DSA/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Chethana45/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Chethana45/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Chethana45/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chethana45/DSA/tree/master/0088-merge-sorted-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chethana45/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Chethana45/DSA/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Chethana45/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Chethana45/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Chethana45/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chethana45/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chethana45/DSA/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/Chethana45/DSA/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
