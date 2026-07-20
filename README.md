@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Chethana45/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Chethana45/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/Chethana45/DSA/tree/master/0766-toeplitz-matrix) |
+| [1260-shift-2d-grid](https://github.com/Chethana45/DSA/tree/master/1260-shift-2d-grid) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Chethana45/DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1572-matrix-diagonal-sum](https://github.com/Chethana45/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/Chethana45/DSA/tree/master/1920-build-array-from-permutation) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Chethana45/DSA/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Chethana45/DSA/tree/master/0064-minimum-path-sum) |
 | [0766-toeplitz-matrix](https://github.com/Chethana45/DSA/tree/master/0766-toeplitz-matrix) |
+| [1260-shift-2d-grid](https://github.com/Chethana45/DSA/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Chethana45/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Chethana45/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Chethana45/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chethana45/DSA/tree/master/0415-add-strings) |
+| [1260-shift-2d-grid](https://github.com/Chethana45/DSA/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Chethana45/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Chethana45/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Chethana45/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
