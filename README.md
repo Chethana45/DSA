@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chethana45/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chethana45/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Chethana45/DSA/tree/master/2032-two-out-of-three) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Chethana45/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Chethana45/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/Chethana45/DSA/tree/master/2032-two-out-of-three) |
 | [3701-compute-alternating-sum](https://github.com/Chethana45/DSA/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Chethana45/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/Chethana45/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
