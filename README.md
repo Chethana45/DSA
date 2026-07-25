@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Chethana45/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/Chethana45/DSA/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/Chethana45/DSA/tree/master/2652-sum-multiples) |
+| [3536-maximum-product-of-two-digits](https://github.com/Chethana45/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chethana45/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chethana45/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chethana45/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Chethana45/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
