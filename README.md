@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chethana45/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chethana45/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Chethana45/DSA/tree/master/2032-two-out-of-three) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chethana45/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chethana45/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Chethana45/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/Chethana45/DSA/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/Chethana45/DSA/tree/master/2652-sum-multiples) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chethana45/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chethana45/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chethana45/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Chethana45/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Chethana45/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chethana45/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chethana45/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chethana45/DSA/tree/master/0169-majority-element) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chethana45/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -451,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chethana45/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chethana45/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
