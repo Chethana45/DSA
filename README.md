@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Chethana45/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chethana45/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Chethana45/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Chethana45/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chethana45/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Chethana45/DSA/tree/master/2485-find-the-pivot-integer) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chethana45/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Chethana45/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Chethana45/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Chethana45/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Chethana45/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chethana45/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Chethana45/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Chethana45/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Chethana45/DSA/tree/master/0371-sum-of-two-integers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Chethana45/DSA/tree/master/2032-two-out-of-three) |
 ## Recursion
 |  |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chethana45/DSA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Chethana45/DSA/tree/master/0077-combinations) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Union-Find
 |  |
 | ------- |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chethana45/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Design
 |  |
@@ -495,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chethana45/DSA/tree/master/0486-predict-the-winner) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
