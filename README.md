@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Chethana45/DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Chethana45/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chethana45/DSA/tree/master/0415-add-strings) |
+| [0477-total-hamming-distance](https://github.com/Chethana45/DSA/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Chethana45/DSA/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Chethana45/DSA/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Chethana45/DSA/tree/master/0507-perfect-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chethana45/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Chethana45/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chethana45/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0477-total-hamming-distance](https://github.com/Chethana45/DSA/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Chethana45/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Chethana45/DSA/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/Chethana45/DSA/tree/master/0500-keyboard-row) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Chethana45/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Chethana45/DSA/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/Chethana45/DSA/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/Chethana45/DSA/tree/master/0477-total-hamming-distance) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Chethana45/DSA/tree/master/2032-two-out-of-three) |
 ## Recursion
