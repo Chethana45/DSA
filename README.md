@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chethana45/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chethana45/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Chethana45/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1510-stone-game-iv](https://github.com/Chethana45/DSA/tree/master/1510-stone-game-iv) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Chethana45/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chethana45/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Chethana45/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Chethana45/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Chethana45/DSA/tree/master/1143-longest-common-subsequence) |
+| [1510-stone-game-iv](https://github.com/Chethana45/DSA/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chethana45/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chethana45/DSA/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/Chethana45/DSA/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
@@ -545,4 +548,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Chethana45/DSA/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Chethana45/DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Chethana45/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Chethana45/DSA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Chethana45/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
