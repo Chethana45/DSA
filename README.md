@@ -590,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chethana45/DSA/tree/master/0141-linked-list-cycle) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Chethana45/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
