@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Chethana45/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Chethana45/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Chethana45/DSA/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Chethana45/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Chethana45/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chethana45/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chethana45/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chethana45/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Chethana45/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Chethana45/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chethana45/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chethana45/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -441,11 +443,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Chethana45/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chethana45/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chethana45/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Chethana45/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Chethana45/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Chethana45/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chethana45/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chethana45/DSA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Chethana45/DSA/tree/master/0077-combinations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Chethana45/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Union-Find
 |  |
