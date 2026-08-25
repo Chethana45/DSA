@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Chethana45/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Chethana45/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chethana45/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Chethana45/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Chethana45/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Chethana45/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2032-two-out-of-three](https://github.com/Chethana45/DSA/tree/master/2032-two-out-of-three) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Chethana45/DSA/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Chethana45/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Chethana45/DSA/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Chethana45/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Chethana45/DSA/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chethana45/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chethana45/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Chethana45/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Chethana45/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Chethana45/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Chethana45/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Chethana45/DSA/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Chethana45/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
@@ -606,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Chethana45/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Chethana45/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
