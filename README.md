@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Chethana45/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Chethana45/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Chethana45/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Chethana45/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Chethana45/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/Chethana45/DSA/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/Chethana45/DSA/tree/master/0877-stone-game) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Chethana45/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Chethana45/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Chethana45/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Chethana45/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Chethana45/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -626,4 +628,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Chethana45/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Chethana45/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
