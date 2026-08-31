@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chethana45/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chethana45/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Chethana45/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Chethana45/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chethana45/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Chethana45/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Chethana45/DSA/tree/master/0216-combination-sum-iii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chethana45/DSA/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Chethana45/DSA/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Chethana45/DSA/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/Chethana45/DSA/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chethana45/DSA/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Chethana45/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chethana45/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Chethana45/DSA/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chethana45/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Chethana45/DSA/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/Chethana45/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chethana45/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Chethana45/DSA/tree/master/3310-remove-methods-from-project) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chethana45/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chethana45/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Chethana45/DSA/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Chethana45/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Chethana45/DSA/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chethana45/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Chethana45/DSA/tree/master/3310-remove-methods-from-project) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chethana45/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Chethana45/DSA/tree/master/0200-number-of-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chethana45/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
