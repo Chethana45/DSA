@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3708-longest-fibonacci-subarray](https://github.com/Chethana45/DSA/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chethana45/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Chethana45/DSA/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/Chethana45/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Chethana45/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Chethana45/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Chethana45/DSA/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/Chethana45/DSA/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/Chethana45/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
