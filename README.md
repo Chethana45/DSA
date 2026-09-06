@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Chethana45/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Chethana45/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Chethana45/DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Chethana45/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Chethana45/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chethana45/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Chethana45/DSA/tree/master/0367-valid-perfect-square) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Chethana45/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Chethana45/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chethana45/DSA/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Chethana45/DSA/tree/master/1510-stone-game-iv) |
@@ -628,10 +630,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Chethana45/DSA/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Chethana45/DSA/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Chethana45/DSA/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Chethana45/DSA/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -655,4 +659,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Chethana45/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Chethana45/DSA/tree/master/0739-daily-temperatures) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Chethana45/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Chethana45/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
