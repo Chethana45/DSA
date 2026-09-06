@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Chethana45/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Chethana45/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Chethana45/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chethana45/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Chethana45/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Chethana45/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Chethana45/DSA/tree/master/0189-rotate-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chethana45/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Chethana45/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Chethana45/DSA/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chethana45/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Chethana45/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chethana45/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Chethana45/DSA/tree/master/0162-find-peak-element) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Chethana45/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chethana45/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chethana45/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chethana45/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Chethana45/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Chethana45/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chethana45/DSA/tree/master/0232-implement-queue-using-stacks) |
