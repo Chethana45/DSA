@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Chethana45/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Chethana45/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Chethana45/DSA/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Chethana45/DSA/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/Chethana45/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Chethana45/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chethana45/DSA/tree/master/0415-add-strings) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Chethana45/DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Chethana45/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chethana45/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/Chethana45/DSA/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Chethana45/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chethana45/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/Chethana45/DSA/tree/master/0477-total-hamming-distance) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Chethana45/DSA/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chethana45/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Chethana45/DSA/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Chethana45/DSA/tree/master/0399-evaluate-division) |
 | [0572-subtree-of-another-tree](https://github.com/Chethana45/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chethana45/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chethana45/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Chethana45/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Chethana45/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Chethana45/DSA/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Chethana45/DSA/tree/master/0399-evaluate-division) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chethana45/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Chethana45/DSA/tree/master/3310-remove-methods-from-project) |
 ## String Matching
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chethana45/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Chethana45/DSA/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Chethana45/DSA/tree/master/0399-evaluate-division) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chethana45/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -658,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Chethana45/DSA/tree/master/0399-evaluate-division) |
 | [3310-remove-methods-from-project](https://github.com/Chethana45/DSA/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
@@ -703,4 +709,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chethana45/DSA/tree/master/0169-majority-element) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Chethana45/DSA/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Chethana45/DSA/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Chethana45/DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
