@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Chethana45/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Chethana45/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Chethana45/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1207-unique-number-of-occurrences](https://github.com/Chethana45/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2032-two-out-of-three](https://github.com/Chethana45/DSA/tree/master/2032-two-out-of-three) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chethana45/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chethana45/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Chethana45/DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Chethana45/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Chethana45/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/Chethana45/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Chethana45/DSA/tree/master/1260-shift-2d-grid) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Chethana45/DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chethana45/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
