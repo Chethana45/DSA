@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Chethana45/DSA/tree/master/1260-shift-2d-grid) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Chethana45/DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chethana45/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Chethana45/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Chethana45/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Chethana45/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/Chethana45/DSA/tree/master/1572-matrix-diagonal-sum) |
