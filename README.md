@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Chethana45/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chethana45/DSA/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Chethana45/DSA/tree/master/0500-keyboard-row) |
+| [0844-backspace-string-compare](https://github.com/Chethana45/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Chethana45/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Chethana45/DSA/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/Chethana45/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Chethana45/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chethana45/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Chethana45/DSA/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Chethana45/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Chethana45/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Chethana45/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chethana45/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Chethana45/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Chethana45/DSA/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Chethana45/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Chethana45/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Chethana45/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chethana45/DSA/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Chethana45/DSA/tree/master/1920-build-array-from-permutation) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Chethana45/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Chethana45/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chethana45/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Chethana45/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Chethana45/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
