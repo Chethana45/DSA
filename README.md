@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Chethana45/DSA/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chethana45/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chethana45/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Chethana45/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chethana45/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Chethana45/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Chethana45/DSA/tree/master/0704-binary-search) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chethana45/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chethana45/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Chethana45/DSA/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/Chethana45/DSA/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/Chethana45/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Chethana45/DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chethana45/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
