@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chethana45/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chethana45/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Chethana45/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chethana45/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1510-stone-game-iv](https://github.com/Chethana45/DSA/tree/master/1510-stone-game-iv) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Chethana45/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Chethana45/DSA/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Chethana45/DSA/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Chethana45/DSA/tree/master/0477-total-hamming-distance) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chethana45/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Chethana45/DSA/tree/master/2032-two-out-of-three) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Chethana45/DSA/tree/master/2595-number-of-even-and-odd-bits) |
