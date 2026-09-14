@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Chethana45/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Chethana45/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Chethana45/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0859-buddy-strings](https://github.com/Chethana45/DSA/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/Chethana45/DSA/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Chethana45/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chethana45/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Chethana45/DSA/tree/master/0657-robot-return-to-origin) |
 | [0806-number-of-lines-to-write-string](https://github.com/Chethana45/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Chethana45/DSA/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/Chethana45/DSA/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/Chethana45/DSA/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Chethana45/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/Chethana45/DSA/tree/master/1002-find-common-characters) |
