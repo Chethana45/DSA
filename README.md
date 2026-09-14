@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Chethana45/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Chethana45/DSA/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/Chethana45/DSA/tree/master/0908-smallest-range-i) |
+| [0976-largest-perimeter-triangle](https://github.com/Chethana45/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Chethana45/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Chethana45/DSA/tree/master/1154-day-of-the-year) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chethana45/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Chethana45/DSA/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Chethana45/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Chethana45/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [0976-largest-perimeter-triangle](https://github.com/Chethana45/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chethana45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Chethana45/DSA/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/Chethana45/DSA/tree/master/1051-height-checker) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chethana45/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Chethana45/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Chethana45/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Chethana45/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chethana45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Chethana45/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chethana45/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chethana45/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Chethana45/DSA/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Chethana45/DSA/tree/master/0605-can-place-flowers) |
+| [0976-largest-perimeter-triangle](https://github.com/Chethana45/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1903-largest-odd-number-in-string](https://github.com/Chethana45/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Chethana45/DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chethana45/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -787,4 +791,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Chethana45/DSA/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Chethana45/DSA/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Chethana45/DSA/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
