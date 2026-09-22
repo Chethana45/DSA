@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Chethana45/DSA/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Chethana45/DSA/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Chethana45/DSA/tree/master/0477-total-hamming-distance) |
+| [1009-complement-of-base-10-integer](https://github.com/Chethana45/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chethana45/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Chethana45/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Chethana45/DSA/tree/master/2032-two-out-of-three) |
