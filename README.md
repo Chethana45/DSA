@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Chethana45/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Chethana45/DSA/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/Chethana45/DSA/tree/master/1154-day-of-the-year) |
+| [1528-shuffle-string](https://github.com/Chethana45/DSA/tree/master/1528-shuffle-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Chethana45/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Chethana45/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chethana45/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chethana45/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Chethana45/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Chethana45/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1528-shuffle-string](https://github.com/Chethana45/DSA/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Chethana45/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Chethana45/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1854-maximum-population-year](https://github.com/Chethana45/DSA/tree/master/1854-maximum-population-year) |
