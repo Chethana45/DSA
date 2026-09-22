@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Chethana45/DSA/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Chethana45/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chethana45/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/Chethana45/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Chethana45/DSA/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/Chethana45/DSA/tree/master/1154-day-of-the-year) |
 | [1903-largest-odd-number-in-string](https://github.com/Chethana45/DSA/tree/master/1903-largest-odd-number-in-string) |
