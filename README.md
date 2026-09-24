@@ -1,4 +1,25 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🧩 LeetCode Solutions
+
+A collection of my solutions to **LeetCode problems**, written while practicing Data Structures, Algorithms, problem-solving, and competitive programming.
+
+The repository contains solutions across different difficulty levels and problem categories, with a focus on understanding the approach rather than simply solving the problem.
+
+---
+
+## 🚀 What I'm Practicing
+
+- Data Structures
+- Algorithms
+- Problem Solving
+- Time & Space Complexity
+- Pattern Recognition
+- Optimization
+- Competitive Programming
+
+---
+
+## 📚 Topics Covered
+</p>A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
@@ -833,3 +854,114 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Chethana45/DSA/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
+
+
+## 💻 Language
+
+Most of the solutions in this repository are implemented in:
+
+**C++**
+
+Some problems may also be implemented using other languages while experimenting with different approaches.
+
+---
+
+## 🧠 Approach
+
+For each problem, the goal is to focus on:
+
+```text
+Understand the Problem
+        ↓
+Identify the Pattern
+        ↓
+Design the Approach
+        ↓
+Implement the Solution
+        ↓
+Analyze Complexity
+        ↓
+Optimize if Possible
+```
+
+The solutions are written with an emphasis on readable and understandable logic.
+
+---
+
+## ⏱️ Complexity Analysis
+
+Where applicable, solutions include analysis of:
+
+- **Time Complexity**
+- **Space Complexity**
+
+Example:
+
+```text
+Time Complexity: O(n)
+Space Complexity: O(1)
+```
+
+---
+
+## 📈 Progress
+
+This repository is continuously updated as I solve more problems and explore new algorithmic patterns.
+
+### Practice Focus
+
+- 🟢 Easy — Building fundamentals
+- 🟡 Medium — Improving problem-solving
+- 🔴 Hard — Challenging algorithmic problems
+
+---
+
+## 🏆 Practice Milestones
+
+- 📌 Consistent LeetCode practice
+- 🔥 50+ day LeetCode streak
+- 🧩 70+ problems solved
+- 📚 Practicing multiple DSA patterns
+- 🚀 Continuously adding new solutions
+
+---
+
+## 🎯 Goals
+
+- Strengthen Data Structures & Algorithms
+- Improve competitive programming skills
+- Recognize common problem-solving patterns
+- Improve time and space complexity analysis
+- Prepare for technical interviews
+- Solve increasingly challenging problems
+
+---
+
+## 📌 Notes
+
+These solutions are primarily maintained for **learning, revision, and practice**.
+
+For some problems, there may be multiple possible approaches. The implementation in this repository represents the approach I used while solving or studying the problem.
+
+---
+
+## 👩‍💻 Author
+
+**Chethana Sri**
+
+B.E. Computer Science Engineering  
+Madras Institute of Technology
+
+### Interests
+
+- 💻 Software Development
+- 🧠 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 🌐 Full-Stack Development
+
+---
+
+<p align="center">
+
+### 🧩 Keep Solving. Keep Learning. Keep Improving. 🚀
+
