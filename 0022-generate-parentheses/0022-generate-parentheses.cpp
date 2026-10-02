@@ -4,18 +4,18 @@ public:
 
     void generate(string s, int open, int close, int n) {
 
-        // Base case
-        if (s.size() == 2 * n) {
+        // Completed one valid combination
+        if (s.length() == 2 * n) {
             ans.push_back(s);
             return;
         }
 
-        // Add '(' if we still have some left
+        // Add opening bracket
         if (open < n) {
             generate(s + "(", open + 1, close, n);
         }
 
-        // Add ')' only if it won't make the string invalid
+        // Add closing bracket
         if (close < open) {
             generate(s + ")", open, close + 1, n);
         }
